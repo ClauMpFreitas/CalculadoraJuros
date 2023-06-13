@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{3F10E66A-FB93-4A39-A49E-AD7FD687F598}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CalculadoraJuros</RootNamespace>
+    <AssemblyName>CalculadoraJuros</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmFormulas.cs" />
+    <Compile Include="FrmFormulas.Designer.cs">
+      <DependentUpon>FrmFormulas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJurosCompostos.cs" />
+    <Compile Include="FrmJurosCompostos.Designer.cs">
+      <DependentUpon>FrmJurosCompostos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJurosSimples.cs" />
+    <Compile Include="FrmJurosSimples.Designer.cs">
+      <DependentUpon>FrmJurosSimples.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMontanteCompostos.cs" />
+    <Compile Include="FrmMontanteCompostos.Designer.cs">
+      <DependentUpon>FrmMontanteCompostos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMontanteSimples.cs" />
+    <Compile Include="FrmMontanteSimples.Designer.cs">
+      <DependentUpon>FrmMontanteSimples.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmFormulas.resx">
+      <DependentUpon>FrmFormulas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJurosCompostos.resx">
+      <DependentUpon>FrmJurosCompostos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJurosSimples.resx">
+      <DependentUpon>FrmJurosSimples.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMontanteCompostos.resx">
+      <DependentUpon>FrmMontanteCompostos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMontanteSimples.resx">
+      <DependentUpon>FrmMontanteSimples.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

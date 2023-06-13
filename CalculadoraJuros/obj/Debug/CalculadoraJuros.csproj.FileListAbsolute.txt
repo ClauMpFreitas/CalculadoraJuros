@@ -1,0 +1,38 @@
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe.config
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.pdb
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csprojResolveAssemblyReference.cache
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.MainForm.resources
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csproj.GenerateResource.Cache
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.exe
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.pdb
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmJurosCompostos.resources
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmJurosSimples.resources
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmMontanteCompostos.resources
+C:\Users\Claudinha\Documents\SharpDevelop Projects\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmMontanteSimples.resources
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe.config
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.pdb
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csprojResolveAssemblyReference.cache
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmJurosCompostos.resources
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmJurosSimples.resources
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmMontanteCompostos.resources
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmMontanteSimples.resources
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.MainForm.resources
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csproj.GenerateResource.Cache
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.exe
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.pdb
+D:\Projetos para concluir\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmFormulas.resources
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe.config
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.exe
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\bin\Debug\CalculadoraJuros.pdb
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csprojResolveAssemblyReference.cache
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmFormulas.resources
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmJurosCompostos.resources
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmJurosSimples.resources
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmMontanteCompostos.resources
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.FrmMontanteSimples.resources
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.MainForm.resources
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.csproj.GenerateResource.Cache
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.exe
+D:\Projetos prontos\CalculadoraJuros\CalculadoraJuros\obj\Debug\CalculadoraJuros.pdb
